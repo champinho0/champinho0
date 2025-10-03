@@ -1,5 +1,3 @@
-# academy-template-readme-profile
-
 # Hi, my name is Paulo André Sousa 👋
 
 ### About me
