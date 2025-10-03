@@ -1,4 +1,4 @@
-# Hi, my name is Paulo André Sousa 👋
+# Hi, my name is Paulo 👋
 
 ### About me
 
